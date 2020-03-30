@@ -1,0 +1,3 @@
+From Dependency Injection, I try further to do Inversion of Control:
+In this example I try to config my best to using Field Injection using ComponentScan in AppConfig to inject the value into the user (Bean) through the usage of @Autowired
+
